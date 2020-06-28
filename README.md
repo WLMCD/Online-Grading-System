@@ -1,0 +1,2 @@
+# Online-Grading-System
+The Online Grading System(OGS) is a web application for MUST students, which using ASP.NET framework, bootstrap framework and SQL server. OGS provides a platform for students and teacher to digitize submit and mark school assignment. Teacher can create account for each student, delete and edit student account information, modify administrator account password, create assignment and mark assignment. Students can limited edit their information, do assignment and view score after marking by teacher.
